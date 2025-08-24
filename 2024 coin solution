@@ -1,0 +1,16 @@
+059035342x = ISBN-10 for "Harry potter and the sorcerers stone"
+
+iv 13 6 = the literal 4th page 13th line down and 6th word accross which is publication
+
+stickmen = semaphores for isbn
+
+cipher text is decoded with https://www.dcode.fr/transposition-cipher
+
+make sure there are no spaces VGbzB2i9WcgN3IGIulScAdk9XavKIvVmc0=0xmTrBONCYvFWGdutma=UvB2du9y53eUlwGdwU3cu
+
+enable "Keep Spaces, Punctuation and other characters" hit decrypt and get the base64 string
+
+UG90dGVyIGNvdWxkIG5vdCBwcm9ub3VuY2UgTXlzemtvd3NraSBUcmFuc3Bvc2l0aW9uIOKAiw==
+
+decode that with cyber chef i guess if your not weird which gives the full flag including the spaces:
+Potter could not pronounce Myszkowski Transposition •
