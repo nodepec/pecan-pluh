@@ -4,8 +4,10 @@ the symbols mean templar cipher
 
 use templar cipher to decode the inside text which gives TRY EVERY OTHER
 
-using the clue you can get MD5 AND XOR MAY HELP and WH3R3 IS TH3 T0UC4N by deleting every second letter either starting from W or M 
-
-apply this to the starting letter H and you get H3R3 IS TH3 T0UC4N
+using the clue you can get MD5 AND XOR MAY HELP, WH3R3 IS TH3 T0UC4N, H3R3 IS TH3 T0UC4N
 
 encrypt WH3R3 IS TH3 T0UC4N with md5 to get 03f02e0c9b481c0b3da139a005fb4bc2
+
+
+
+flag = PECAN4WASGR8
